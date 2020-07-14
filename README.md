@@ -1,7 +1,6 @@
-<img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/avatar.png?raw=true" height="200" width="200" align='right'/>
-
 # Derrick Timmermans
 
+<img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/avatar.png?raw=true" height="200" width="200" align='right'/>
 
 I'm a weeb with a passion for coding and video games.
 
@@ -13,7 +12,7 @@ I love fiddling around with C++ and C#, usually making small games.
 ## Sentakki
 I'm currently working on the recreation of maimai within osu!lazer as a custom ruleset, named Sentakki.
 
-![Sentakki gameplay](sentakki.png)
+![Sentakki gameplay](https://github.com/LumpBloom7/LumpBloom7/blob/master/sentakki.png?raw=true)
 
 Demo gameplay: https://www.youtube.com/watch?v=DEpT1ReTKo0
 
