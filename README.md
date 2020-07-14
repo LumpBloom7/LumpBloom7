@@ -1,12 +1,10 @@
-# Derrick Timmermans
-
 <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/avatar.png?raw=true" height="200" width="200" align='right'/>
+
+# Derrick Timmermans
 
 I'm a weeb with a passion for coding and video games.
 
 I love fiddling around with C++ and C#, usually making small games.
-
-![Bloom's github stats](https://github-readme-stats.vercel.app/api?username=lumpbloom7&show_icons=true&title_color=ff0064&icon_color=ff0064&text_color=9f9f9f&hide_border=true)
 
 
 ## Sentakki
