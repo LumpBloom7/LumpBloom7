@@ -1,19 +1,6 @@
-<div style="text-align:center">
-  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub.png?raw=true" height="300"/>
-</div>
-
-I'm a weeb with a passion for coding and video games.
-
-I love fiddling around with C++ and C#, usually making small games.
-
-
-## Sentakki
-I'm currently working on the recreation of maimai within osu!lazer as a custom ruleset, named Sentakki.
-
-![Sentakki gameplay](https://github.com/LumpBloom7/LumpBloom7/blob/master/sentakki.png?raw=true)
-
-Demo gameplay: https://www.youtube.com/watch?v=DEpT1ReTKo0
-
+<p align="center">
+  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/tmp2.png?raw=true" height="500"/>
+</p>
 
 ## On the web
 I can also be found in the following spots on the internet
