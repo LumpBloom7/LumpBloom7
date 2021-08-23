@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub2.png?raw=true" height="400"/><br/>
+  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub2.png?raw=true" height="300"/><br/>
 </p>
 
 ---
