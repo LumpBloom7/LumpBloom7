@@ -1,6 +1,6 @@
-<img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/avatar.png?raw=true" height="200" width="200" align='right'/>
-
-# Derrick Timmermans
+<div style="text-align:center">
+  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub.png?raw=true" height="300"/>
+</div>
 
 I'm a weeb with a passion for coding and video games.
 
