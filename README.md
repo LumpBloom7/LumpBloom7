@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub2.png?raw=true" height="400"/>
+  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub2.png?raw=true" height="400"/><br/>
 </p>
 
-## On the web
-I can also be found in the following spots on the internet
-* [Website](https://lumpbloom7.github.io)
-* [Twitter](https://twitter.com/LumpBloom7)
-* [Email](mailto:derrick.timmermans@outlook.com)
-* [osu!](https://osu.ppy.sh/users/6443205)
+---
+
+<p align="center" style="font-size: 20px; font-weight:600;">
+  <a href="https://lumpbloom7.github.io">Website</a> |
+  <a href="https://twitter.com/LumpBloom7">Twitter</a> |
+  <a href="mailto:derrick.timmermans@outlook.com">Email</a> |
+  <a href="https://osu.ppy.sh/users/6443205">osu!</a>
+</p>
