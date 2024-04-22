@@ -1,6 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LumpBloom7/LumpBloom7/blob/master/BannerDark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LumpBloom7/LumpBloom7/blob/master/BannerLight.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LumpBloom7/LumpBloom7/master/BannerDark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumpBloom7/LumpBloom7/master/BannerLight.png">
+  <img alt="Just a logo" src="https://raw.githubusercontent.com/LumpBloom7/LumpBloom7/master/BannerDark.png">
 </picture>
 ---
 
