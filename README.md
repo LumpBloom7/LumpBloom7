@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LumpBloom7/LumpBloom7/master/BannerLight.png">
   <img alt="Just a logo" src="https://raw.githubusercontent.com/LumpBloom7/LumpBloom7/master/BannerDark.png">
 </picture>
+
 ---
 
 <p align="center" style="font-size: 20px; font-weight:600;">
