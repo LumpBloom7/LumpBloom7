@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://github.com/LumpBloom7/LumpBloom7/blob/master/GitHub3.png?raw=true"/><br/>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LumpBloom7/LumpBloom7/blob/master/BannerDark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LumpBloom7/LumpBloom7/blob/master/BannerLight.png?raw=true">
+</picture>
 ---
 
 <p align="center" style="font-size: 20px; font-weight:600;">
